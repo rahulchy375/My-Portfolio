@@ -1,0 +1,10 @@
+.dark{
+    background-color: #081b29;
+}
+
+*{
+    font-family: "Josefin Sans", serif;
+}
+body{
+    overflow-x: hidden;
+}

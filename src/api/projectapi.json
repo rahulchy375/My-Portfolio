@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title":"Hekto E-commerce",
+    "description":"This is an e-commerce website that I have made in recent time named Hekto. This is the website in which I tried to add every types functionality of an e-commerce website. That's why I'm still Improving the website.",
+    "img": "/images/project1.png",
+    "link": "https://hekto-e-commerce-web.netlify.app"
+  },
+  {
+    "id": 2,
+    "title":"Orebi E-commerce",
+    "description":"This is an e-commerce website that I have made in recent time named Orebi. This is also the website in which I tried to add every types functionality of an e-commerce website. That's why I'm still Improving the website.",
+    "img": "/images/project2.png",
+    "link": "https://orebyecom.netlify.app"
+  },
+  {
+    "id": 3,
+    "title":"Portfolio Website",
+    "description":"This is a portfolio website that I have made past. I made it for my practice. I didn't add any important functionality in this website. If it is necessary to add extra-ordinary functionality in this website then I will add the functionality.",
+    "img": "/images/project3.png",
+    "link": "https://a-basic-project-with-html-and-css.netlify.app"
+  },
+  {
+    "id": 4,
+    "title":"Innovation",
+    "description":"This is also an e-commerce website that I have made in past time named Innovate. This isn't a complete website. There are a lot of pages that I have to add. That's why I'm still Improving the website.",
+    "img": "/images/project4.png",
+    "link": "https://rahulsreactproject.netlify.app"
+  },
+  {
+    "id": 5,
+    "title":"Todo List",
+    "description":"This is a to do list app. There can be added more functionality.",
+    "img": "/images/project5.png",
+    "link": "https://todoprojectweb.netlify.app"
+  },
+  {
+    "id": 6,
+    "title":"Color Generating App",
+    "description":"This is color code generating app which generates a css code with a beautiful gradient color.",
+    "img": "/images/project6.png",
+    "link": "https://colorgenerating.netlify.app"
+  },
+  {
+    "id": 7,
+    "title":"Thapa E-commerce",
+    "description":"This is an e-commerce website that I have made in past time. This is a simple e-commerce website.",
+    "img": "/images/project7.png",
+    "link": "https://first-ecommerceweb.netlify.app"
+  },
+  {
+    "id": 8,
+    "title":"Calculator",
+    "description":"This is a basic calculator. We can calculate normal calculation in this calculator",
+    "img": "/images/project8.png",
+    "link": "https://basiccalculatormaking.netlify.app"
+  },
+  {
+    "id": 9,
+    "title":"Clock",
+    "description":"This is a digital clock that I have made past for my practice.",
+    "img": "/images/project9.png",
+    "link": "https://clockprojectweb.netlify.app"
+  },
+  {
+    "id": 10,
+    "title":"Timer",
+    "description":"This is a timer. There are some functionality of timer. More functionalities and designs can be added.",
+    "img": "/images/project10.png",
+    "link": "https://timerjsproject.netlify.app"
+  },
+  {
+    "id": 11,
+    "title":"Weather App",
+    "description":"This is a weather application. It shows the information about the weather of your area or your asking area.",
+    "img": "/images/project11.png",
+    "link": "https://weatherprojectweb.netlify.app"
+  },
+  {
+    "id": 12,
+    "title":"Joke Generating App",
+    "description":"This is a joke generating application which generate jokes",
+    "img": "/images/project12.png",
+    "link": "https://jokegeneratingweb.netlify.app"
+  }
+]
